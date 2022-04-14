@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "udemyapps",
+            "cwd": "udemyapps",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "udemyapps (profile mode)",
+            "cwd": "udemyapps",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "udemyapps (release mode)",
+            "cwd": "udemyapps",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
